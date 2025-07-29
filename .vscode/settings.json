@@ -1,0 +1,5 @@
+{
+    "markdown.extension.completion.enabled": true,
+    "markdown.extension.toc.orderedList": true,
+    "markdown-preview-enhanced.breakOnSingleNewLine": false
+}
